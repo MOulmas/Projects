@@ -1,0 +1,16 @@
+1.Using PyCharm
+---->Install Boto3 and awscli
+
+2.Create IAM user on AWS
+---->Get your Access key and Secret key
+---->Attach AdministratorAccess permission
+
+3.Add or create your .pem access key on aws
+---->Add your .pem acces key in the python file
+---->KeyName='Your access_key.pem'
+
+4.PyCharm local terminal
+---->Perform 'aws configure' command
+
+5.Run the program
+
